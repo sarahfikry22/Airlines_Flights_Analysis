@@ -19,7 +19,7 @@ The provided data model outlines the structure and relationships between various
 2. **Airport**:
     - Stores details about airports, such as country code, location (latitude, longitude), and region name.
 
-3. **Delayed Flights**:
+3. **Delayed Flights (Fact Table)**:
     - Tracks data related to flight delays, cancellations, and other operational metrics. Key fields include AirTime, DepDelay, CancellationCode, and Distance.
 
 4. **Date**:
